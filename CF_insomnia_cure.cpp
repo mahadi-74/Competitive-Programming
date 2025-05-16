@@ -16,6 +16,7 @@ int dragons(int k, int l, int m, int n, int d)
         damaged.insert(i);
 
     return damaged.size();
+    // changes being made
 
 }
 
